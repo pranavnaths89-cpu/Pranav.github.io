@@ -1,24 +1,23 @@
-# Pranavnath S - Corporate Law Portfolio
+# Pranavnath S – Corporate Law Portfolio
 
-Professional portfolio website showcasing:
+Professional portfolio website of Pranavnath S,
+B.Com LL.B (SASTRA Deemed University).
 
-- Corporate Law experience
-- Mergers & Acquisitions exposure
-- Private Equity research
-- Publications
-- Arbitration and Securities Law work
+## Areas of Focus
+- Mergers & Acquisitions
+- Private Equity
+- Securities Law
+- Corporate Advisory
 
-## Technologies Used
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
 
-## Deployment
-
-You can deploy this website using:
+## Live Deployment
+You can deploy this site using:
 - GitHub Pages
 - Netlify
 - Vercel
 
-## Author
-Pranavnath S
+© 2026 Pranavnath S
